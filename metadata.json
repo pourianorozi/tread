@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Trader Pro",
+  "description": "سامانه مدیریت معاملات ارز دیجیتال، ربات‌های معامله‌گر و تحلیل پیشرفته بازار",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
