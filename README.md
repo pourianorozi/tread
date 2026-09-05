@@ -12,6 +12,7 @@ A modern React + TypeScript + Vite application built as a helper tool.
 - Recharts
 - Lucide React
 - Motion
+- ESLint + Prettier
 
 ## Getting Started
 
@@ -37,7 +38,11 @@ The app will be available at `http://localhost:3000`.
 | `dev` | Start development server |
 | `build` | Build for production |
 | `preview` | Preview production build |
-| `lint` | Type-check with TypeScript |
+| `lint` | Run ESLint |
+| `lint:fix` | Run ESLint and auto-fix |
+| `format` | Format code with Prettier |
+| `format:check` | Check Prettier formatting |
+| `typecheck` | Type-check with TypeScript |
 | `clean` | Remove build artifacts |
 
 ## Environment
